@@ -1,1 +1,1 @@
-# conpot-machine
+# ConpotMachine
